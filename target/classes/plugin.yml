@@ -1,0 +1,7 @@
+name: GriefMeX
+version: '1.0'
+main: me.zgoly.griefmex.Main
+api-version: 1.18
+authors: [ Zgoly ]
+description: Set
+website: no
