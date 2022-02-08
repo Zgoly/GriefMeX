@@ -1,2 +1,2 @@
 # GriefMeX
-Source code lol
+## Become your server in semi-grief
