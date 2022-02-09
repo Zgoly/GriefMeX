@@ -3,10 +3,10 @@ Hello, I would like to show my first plugin for **Spigot**. It makes it possible
 
 ## Download
 Minecraft version: 1.18.1
-
 1. Click **[here to download](https://github.com/Zgoly/GriefMeX/releases/latest/download/GriefMeX.jar)**
 2. Move `GriefMeX.jar` in `plugins` folder
 
+## Supported blocks
 |Block Type               |Support|
 |-------------------------|-------|
 |Chest                    |**Yes**|
@@ -16,4 +16,3 @@ Minecraft version: 1.18.1
 |Droppers                 |No     |
 |Dispensers               |No     |
 |And other...             |No     |
-|-------------------------|-------|
