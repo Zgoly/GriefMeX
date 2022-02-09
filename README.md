@@ -16,4 +16,4 @@ Minecraft version: 1.18.1
 |Droppers                 |No     |
 |Dispensers               |No     |
 |And other...             |No     |
-https://github.com/Zgoly/GriefMeX/releases/download/release/GriefMeX.jar
+|---------------------------------|
