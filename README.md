@@ -2,8 +2,10 @@
 Hello, I would like to show my first plugin for **Spigot**. It makes it possible to **blow up chests** without damaging **other blocks**.
 
 ## Download
-### Minecraft version: 1.18.1
-### [Download now](https://github.com/Zgoly/GriefMeX/releases/latest/download/GriefMeX.jar)
+Minecraft version: 1.18.1
+
+1. Click **[here to download](https://github.com/Zgoly/GriefMeX/releases/latest/download/GriefMeX.jar)**
+2. Move `GriefMeX.jar` in `plugins` folder
 
 |Block Type               |Support|
 |-------------------------|-------|
